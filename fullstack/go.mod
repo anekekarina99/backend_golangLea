@@ -9,5 +9,6 @@ require (
 
 require (
 	github.com/badoux/checkmail v1.2.4
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/jinzhu/inflection v1.0.0 // indirect
 )
